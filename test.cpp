@@ -2,5 +2,8 @@
 
 int main()
 {
-    std::cout << "test" << std::endl;
+    std::cout << "Developers:" << std::endl;
+    std::cout << "deniz" << std::endl;
+
+    return 0;
 }
