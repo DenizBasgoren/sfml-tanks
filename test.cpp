@@ -12,6 +12,7 @@ int main()
     cout << "Yuppi we dont have to type std anymore :)" << endl; 
 
 >>>>>>> f831e3f7dbf5894376848b95c542628cdda82ffa
+	cout<<"Trying 1 2 3  ...."
 
     return 0;
 }
