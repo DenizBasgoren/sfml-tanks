@@ -3,7 +3,7 @@
 int main()
 {
     std::cout << "Developers:" << std::endl;
-    std::cout << "deniz" << std::endl;
+    std::cout << "deniz , mahir" << std::endl;
 
     return 0;
 }
